@@ -1,0 +1,12 @@
+#contextMenu{
+    position: absolute;
+    display: none;
+}
+
+#contextMenu li{
+    cursor: pointer;
+}
+
+#grid > div:hover > .card{
+    background-color: #f0f0f0;
+}
