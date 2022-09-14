@@ -18,3 +18,17 @@
 .fs-100{
     font-size: 100%;
 }
+.panel-img{
+    position: relative;
+}
+.badge-center{
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    font-weight: bold;
+    font-size: 20pt;
+    opacity: 0.8;
+    letter-spacing: 2px;
+}
