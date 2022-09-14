@@ -10,3 +10,11 @@
 #grid > div:hover > .card{
     background-color: #f0f0f0;
 }
+#grid .card{
+    cursor: pointer;
+}.right-0{
+    right: 0;
+}
+.fs-100{
+    font-size: 100%;
+}
